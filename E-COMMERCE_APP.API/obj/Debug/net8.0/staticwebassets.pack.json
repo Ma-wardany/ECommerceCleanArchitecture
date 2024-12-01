@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\09d414ef-1991-4408-b026-94b4a4e61696_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\09d414ef-1991-4408-b026-94b4a4e61696_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\0e64c040-907c-4c0e-9b87-9b58ba4bbac2_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\0e64c040-907c-4c0e-9b87-9b58ba4bbac2_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\0efa93a0-ce9a-4733-80d2-c6cfb6a572d3_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\0efa93a0-ce9a-4733-80d2-c6cfb6a572d3_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\126b5cb5-9142-42dc-8969-66c0fe844852_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\126b5cb5-9142-42dc-8969-66c0fe844852_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\2da914a3-977e-485d-a984-285836fe0663_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2da914a3-977e-485d-a984-285836fe0663_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\3213387a-2634-41b4-97a4-8bccb231640c_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\3213387a-2634-41b4-97a4-8bccb231640c_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\483d1381-7f20-4bf3-8a3f-4f83a7b0a669_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\483d1381-7f20-4bf3-8a3f-4f83a7b0a669_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\5dc64bb7-3707-425a-9310-c2061946665f_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\5dc64bb7-3707-425a-9310-c2061946665f_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\8cea8478-24df-4678-a4b7-b00f41b2b295_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\8cea8478-24df-4678-a4b7-b00f41b2b295_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\a7de6c34-f49c-424b-be3a-16d51d6bbae5_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\a7de6c34-f49c-424b-be3a-16d51d6bbae5_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\a9d5e899-a6cc-440d-bc52-d6da5744d424_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\a9d5e899-a6cc-440d-bc52-d6da5744d424_2.jpg"
+    },
+    {
+      "Id": "E:\\C#_Worcspace\\E-COMMERCE_APP\\E-COMMERCE_APP.API\\wwwroot\\Images\\d6d36a02-5c2f-4509-b69c-202693718f37_2.jpg",
+      "PackagePath": "staticwebassets\\Images\\d6d36a02-5c2f-4509-b69c-202693718f37_2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-COMMERCE_APP.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-COMMERCE_APP.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-COMMERCE_APP.API.props",
+      "PackagePath": "build\\E-COMMERCE_APP.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-COMMERCE_APP.API.props",
+      "PackagePath": "buildMultiTargeting\\E-COMMERCE_APP.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-COMMERCE_APP.API.props",
+      "PackagePath": "buildTransitive\\E-COMMERCE_APP.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

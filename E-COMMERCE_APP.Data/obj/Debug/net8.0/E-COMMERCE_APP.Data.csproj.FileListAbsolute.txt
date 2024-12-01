@@ -1,0 +1,12 @@
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\bin\Debug\net8.0\E-COMMERCE_APP.Data.deps.json
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\bin\Debug\net8.0\E-COMMERCE_APP.Data.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\bin\Debug\net8.0\E-COMMERCE_APP.Data.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.csproj.AssemblyReference.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.AssemblyInfoInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.AssemblyInfo.cs
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.csproj.CoreCompileInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\refint\E-COMMERCE_APP.Data.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\E-COMMERCE_APP.Data.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Data\obj\Debug\net8.0\ref\E-COMMERCE_APP.Data.dll

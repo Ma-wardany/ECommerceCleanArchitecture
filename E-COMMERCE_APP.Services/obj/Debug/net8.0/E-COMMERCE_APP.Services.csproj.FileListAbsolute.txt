@@ -1,0 +1,17 @@
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Services.deps.json
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Services.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Services.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Data.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Data.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.csproj.AssemblyReference.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.AssemblyInfoInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.AssemblyInfo.cs
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.csproj.CoreCompileInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMER.2D7A1524.Up2Date
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\refint\E-COMMERCE_APP.Services.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\E-COMMERCE_APP.Services.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Services\obj\Debug\net8.0\ref\E-COMMERCE_APP.Services.dll

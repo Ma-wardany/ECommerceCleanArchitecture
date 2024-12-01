@@ -1,0 +1,17 @@
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.deps.json
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.runtimeconfig.json
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Infrastructure.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Data.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\bin\Debug\net8.0\E-COMMERCE_APP.Data.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.csproj.AssemblyReference.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.AssemblyInfoInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.AssemblyInfo.cs
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.csproj.CoreCompileInputs.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMER.A6F0AB9A.Up2Date
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\refint\E-COMMERCE_APP.Infrastructure.dll
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.pdb
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\E-COMMERCE_APP.Infrastructure.genruntimeconfig.cache
+E:\C#_Worcspace\E-COMMERCE_APP\E-COMMERCE_APP.Infrastructure\obj\Debug\net8.0\ref\E-COMMERCE_APP.Infrastructure.dll

@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>E_COMMERCE_APP.Core</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E-COMMERCE_APP.Data\E-COMMERCE_APP.Data.csproj" />
+    <ProjectReference Include="..\E-COMMERCE_APP.Infrastructure\E-COMMERCE_APP.Infrastructure.csproj" />
+    <ProjectReference Include="..\E-COMMERCE_APP.Services\E-COMMERCE_APP.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Accounts\Queries\Handlers\" />
+    <Folder Include="Features\Accounts\Queries\QueryModels\" />
+    <Folder Include="Features\Accounts\Queries\validations\" />
+    <Folder Include="Features\Authentication\Queries\Hndlers\" />
+    <Folder Include="Features\Authentication\Queries\Models\" />
+    <Folder Include="Features\Authentication\Queries\ResultsModels\" />
+    <Folder Include="Features\Authorization\Commands\Validator\" />
+    <Folder Include="Features\Authorization\Queries\Handler\" />
+    <Folder Include="Features\Authorization\Queries\Models\" />
+    <Folder Include="Features\Authorization\Queries\Results\" />
+    <Folder Include="Features\Categories\Queries\" />
+    <Folder Include="Features\Order\Commands\Validator\" />
+    <Folder Include="Features\Order\Queries\" />
+    <Folder Include="Features\Reviews\Queries\Results\" />
+    <Folder Include="Mappings\ApplicationUser\queries\" />
+    <Folder Include="Mappings\Authentication\query\" />
+    <Folder Include="Mappings\Category\Queries\" />
+    <Folder Include="Mappings\Orders\Query\" />
+    <Folder Include="Mappings\Reviews\Query\" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="FluentValidation" Version="11.5.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.1" />
+    <PackageReference Include="MediatR" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>
